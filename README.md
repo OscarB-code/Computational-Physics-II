@@ -1,1 +1,1 @@
-# Computational-Physics-II This is the repository of the course of Computational Physics II of the Universidad de Pamplona. 
+# Computational-Physics-II In this repository we will put the projects developed in the course.
